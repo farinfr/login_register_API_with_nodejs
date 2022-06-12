@@ -1,0 +1,25 @@
+{
+  "name": "log-reg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farinfr/login_register_API_with_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farinfr/login_register_API_with_nodejs/issues"
+  },
+  "homepage": "https://github.com/farinfr/login_register_API_with_nodejs#readme",
+  "dependencies": {
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
